@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DashBoardExample/Resources/values/Strings.xml">
+    <Files>
+      <File FileName="DashBoardExample/HomeActivity.cs" Line="65" Column="16" />
+      <File FileName="DashBoardExample/ActiviyHoneyComb.cs" Line="17" Column="22" />
+      <File FileName="DashBoardExample/DashboardActivity.cs" Line="42" Column="46" />
+      <File FileName="DashBoardExample/ActivityEclair.cs" Line="25" Column="4" />
+      <File FileName="DashBoardExample/Resources/values/Strings.xml" Line="16" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/module21/Projects/DashBoardExample/DashBoardExample/HomeActivity.cs" line="21" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DashBoardExample MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
+</Properties>
