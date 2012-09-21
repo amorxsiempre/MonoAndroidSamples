@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MonoAndroidDatabaseDemo/Data/NoteRepository.cs">
+    <Files>
+      <File FileName="MonoAndroidDatabaseDemo/Data/NoteDatabaseHelper.cs" Line="4" Column="11" />
+      <File FileName="MonoAndroidDatabaseDemo/Data/NoteRepository.cs" Line="31" Column="29" />
+      <File FileName="MonoAndroidDatabaseDemo/Data/INoteRepository.cs" Line="11" Column="14" />
+      <File FileName="MonoAndroidDatabaseDemo/DemoApp.cs" Line="11" Column="21" />
+      <File FileName="MonoAndroidDatabaseDemo/Screens/AddNoteActivity.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DataBaseDemo AndroidDeviceId-Debug="S56600dbd6d95" />
+</Properties>
